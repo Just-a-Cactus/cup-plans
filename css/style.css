@@ -10,11 +10,6 @@ html {
 	height: 100%;
 }
 
-html,
-body {
-	/* min-height: 100%; */
-}
-
 body {
 	font: 400 14px/1.3 'Cabin', sans-serif;
 	background-color: #fdde7e;
