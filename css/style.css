@@ -52,7 +52,7 @@ body {
 	width: 49px;
 	height: 46px;
 	background: url("../images/smoke_gold.png") no-repeat center;
-	margin: 20px 90px 10px;
+	margin: 20px 75px 10px;
 }
 
 .ba-bronze-cup {
@@ -73,7 +73,7 @@ body {
 	width: 49px;
 	height: 46px;
 	background: url("../images/smoke_bronze.png") no-repeat center;
-	margin: 20px 90px 10px;
+	margin: 20px 75px 10px;
 }
 
 .ba-silver-cup {
@@ -94,7 +94,7 @@ body {
 	width: 49px;
 	height: 46px;
 	background: url("../images/smoke_silver.png") no-repeat center;
-	margin: 20px 90px 10px;
+	margin: 20px 75px 10px;
 }
 
 .ba-coffee-price {
